@@ -1,7 +1,7 @@
 const CONFIG = {
-    titleWeb: "Linhhhhhhhhhh",
+    titleWeb: "Nhật ",
 
-    background: "img11.jpg",
+    background: "img2.jpg",
 
     min1: "img1.jpg",
     min2: "img2.jpg",
