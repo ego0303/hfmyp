@@ -14,6 +14,6 @@ const CONFIG = {
     max2: "IMG_1696.jpeg",
     max3: "IMG_1697.jpeg",
     max4: "IMG_1698.jpeg",
-    max5: "IMG_1698.jpeg",
+    max5: "IMG_1699.jpeg",
     max6: "IMG_1700.jpeg",
 }
