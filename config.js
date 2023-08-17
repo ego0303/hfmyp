@@ -1,19 +1,19 @@
 const CONFIG = {
     titleWeb: "Tố Uyên",
 
-    background: "IMG_.jpg",
+    background: "IMG_1695.jpg",
 
-    min1: "img1.jpg",
-    min2: "img2.jpg",
-    min3: "img3.jpg",
+    min1: "IMG_1653.jpg",
+    min2: "IMG_1688.jpg",
+    min3: "IMG_1689.jpg",
     min4: "img4.jpg",
     min5: "img5.jpg",
     min6: "img6.jpg",
 
-    max1: "img7.jpg",
-    max2: "img8.jpg",
-    max3: "img9.jpg",
-    max4: "img10.jpg",
-    max5: "img11.jpg",
-    max6: "img12.jpg",
+    max1: "IMG_1694.jpeg",
+    max2: "IMG_1695.jpeg",
+    max3: "IMG_1696.jpg",
+    max4: "IMG_1697.jpg",
+    max5: "IMG_1698.jpg",
+    max6: "IMG_1700.jpg",
 }
