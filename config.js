@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Tố Uyên",
 
-    background: "img2.jpg",
+    background: "IMG_.jpg",
 
     min1: "img1.jpg",
     min2: "img2.jpg",
