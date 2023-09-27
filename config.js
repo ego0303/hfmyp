@@ -4,7 +4,7 @@ const CONFIG = {
     background: "img13.jpg",
 
     min1: "img1.HEIC",
-    min2: "img2.png",
+    min2: "img2.PNG",
     min3: "img3.png",
     min4: "img4.png",
     min5: "img5.png",
