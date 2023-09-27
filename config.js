@@ -1,19 +1,19 @@
 const CONFIG = {
     titleWeb: "Ánh Minh",
 
-    background: "IMG_1695.jpeg",
+    background: "img13.jpg",
 
-    min1: "IMG_1653.jpeg",
-    min2: "IMG_1688.jpeg",
-    min3: "IMG_1689.jpeg",
-    min4: "IMG_1690.jpeg",
-    min5: "IMG_1691.jpeg",
-    min6: "IMG_1694.jpeg",
+    min1: "img1.HEIC",
+    min2: "img2.png",
+    min3: "img3.png",
+    min4: "img4.png",
+    min5: "img5.png",
+    min6: "img6.png",
 
-    max1: "IMG_1695.jpeg",
-    max2: "IMG_1696.jpeg",
-    max3: "IMG_1697.jpeg",
-    max4: "IMG_1698.jpeg",
-    max5: "IMG_1699.jpeg",
-    max6: "IMG_1700.jpeg",
+    max1: "img7.png",
+    max2: "img8.png",
+    max3: "img9.png",
+    max4: "img10.jpg",
+    max5: "img11.HEIC",
+    max6: "img12.HEIC",
 }
