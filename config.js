@@ -3,17 +3,17 @@ const CONFIG = {
 
     background: "img13.jpg",
 
-    min1: "img1.HEIC",
-    min2: "img2.PNG",
-    min3: "img3.png",
-    min4: "img4.png",
-    min5: "img5.png",
-    min6: "img6.png",
+    min1: "img13.jpg",
+    min2: "img13.jpg",
+    min3: "img13.jpg",
+    min4: "img13.jpg",
+    min5: "img13.jpg",
+    min6: "img13.jpg",
 
-    max1: "img7.png",
-    max2: "img8.png",
-    max3: "img9.png",
+    max1: "img13.jpg",
+    max2: "img13.jpg",
+    max3: "img13.jpg",
     max4: "img10.jpg",
-    max5: "img11.HEIC",
-    max6: "img12.HEIC",
+    max5: "img13.jpg",
+    max6: "img13.jpg",
 }
