@@ -1,19 +1,19 @@
 const CONFIG = {
-    titleWeb: "Mai Anh",
+    titleWeb: "Nhật ",
 
-    background: "img13.jpg",
+    background: "img8.jpg",
 
-    min1: "img13.jpg",
-    min2: "img13.jpg",
-    min3: "img13.jpg",
-    min4: "img13.jpg",
-    min5: "img13.jpg",
-    min6: "img13.jpg",
+    min1: "img1.jpg",
+    min2: "img2.jpg",
+    min3: "img3.jpg",
+    min4: "img4.jpg",
+    min5: "img5.jpg",
+    min6: "img6.jpg",
 
-    max1: "img13.jpg",
-    max2: "img13.jpg",
-    max3: "img13.jpg",
+    max1: "img7.jpg",
+    max2: "img8.jpg",
+    max3: "img9.jpg",
     max4: "img10.jpg",
-    max5: "img13.jpg",
-    max6: "img13.jpg",
+    max5: "img3.jpg",
+    max6: "img8.jpg",
 }
