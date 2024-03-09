@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Như Ngọc",
 
-    background: "6.jfif",
+    background: "7.jfif",
 
     min1: "1.jfif",
     min2: "2.jfif",
