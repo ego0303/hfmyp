@@ -1,19 +1,19 @@
 const CONFIG = {
     titleWeb: "Như Ngọc",
 
-    background: "6.jpg",
+    background: "6.jfif",
 
-    min1: "1.jpg",
-    min2: "2.jpg",
-    min3: "3.jpg",
-    min4: "4.jpg",
-    min5: "5.jpg",
-    min6: "6.jpg",
+    min1: "1.jfif",
+    min2: "2.jfif",
+    min3: "3.jfif",
+    min4: "4.jfif",
+    min5: "5.jfif",
+    min6: "6.jfif",
 
-    max1: "7.jpg",
-    max2: "8.jpg",
-    max3: "9.jpg",
-    max4: "10.jpg",
-    max5: "2.jpg",
-    max6: "8.jpg",
+    max1: "7.jfif",
+    max2: "8.jfif",
+    max3: "9.jfif",
+    max4: "10.jfif",
+    max5: "2.jfif",
+    max6: "8.jfif",
 }
