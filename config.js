@@ -15,5 +15,5 @@ const CONFIG = {
     max3: "2.jfif",
     max4: "3.jfif",
     max5: "4.jfif",
-    max6: ".jfif",
+    max6: "5.jfif",
 }
