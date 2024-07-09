@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Thu Ngọc",
+    titleWeb: "Thu Chan",
 
     background: "4.jpg",
 
@@ -14,6 +14,6 @@ const CONFIG = {
     max2: "8.jpg",
     max3: "9.jpg",
     max4: "10.jpg",
-    max5: "11.jpg",
-    max6: "12.jpg",
+    max5: "2.jpg",
+    max6: "5.jpg",
 }
